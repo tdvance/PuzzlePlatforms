@@ -1,0 +1,22 @@
+**/*.blend1
+**/*.VC.db
+**/*.opensdf
+**/*.opendb
+**/*.sdf
+**/*.sln
+**/*.suo
+**/.vs
+**/*.xcodeproj
+**/*.xcworkspace
+**/*_BuiltData.uasset
+**/Build
+**/Binaries
+**/Cooked
+**/ DerivedDataCache
+**/Developers
+**/Intermediate
+**/Saved
+**/StarterContent/
+**/References/
+**/TestBuilds
+
